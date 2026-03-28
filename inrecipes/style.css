@@ -1,0 +1,70 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(198, 198, 218);
+    
+}
+.heading{
+    font-size:x-large;
+    text-align: center;
+    text-shadow: 0cqb;
+    font-weight: bold;
+    display:block;
+    padding:10px;
+    margin: 10px auto;
+    border-color: aquamarine;
+    border-width:10px;
+    box-sizing:border-box
+}
+img{
+    height:auto;
+    width: 300px;
+    margin: 0 auto;
+    display: block;
+    border-color: rgb(182, 21, 19);
+    border-width:1px;
+
+}
+.subheading{
+    background-color: aquamarine;
+    font-size:large;
+    color:blue;
+    text-align: center;
+    text-shadow: 0cqb;
+    font-weight: bold;
+    display:block;
+    padding:10px;
+    margin: 10px auto;
+    border-color: aquamarine;
+    border-width:10px;
+    box-sizing:border-box
+
+}
+.steps{
+    display:block;
+    margin:-10px -10px -10px -10px;
+    border-color: aquamarine;
+    border-width: 2px;
+    background-color: yellow;
+    
+  
+    
+}
+.link{
+    font-style: italic;
+    font-size:medium;
+    color:red; 
+}
+.ingredients{
+    background-color: yellow;
+    color:blue;
+    padding:10px;
+    border-color: blue;
+    border-width: thick;
+    display:inline-block;
+
+}
+p{
+    display: block;
+    background-color: yellowgreen;
+
+}
